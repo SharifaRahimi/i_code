@@ -1,0 +1,10 @@
+id:sh1 
+summary:проверка футера. раздел подписки
+Pre-conditions:перейти на сайт https://guru.qahacking.ru/index.php/2-uncategorised/314-spisok-bagov
+steps:
+1.Перейти на сайт https://guru.qahacking.ru/index.php/2-uncategorised/314-spisok-bagov
+
+2.скролим вниз до футера
+
+3.ввести e.mail в поле ввода и подписаться
+ожидаемый результат: успещно отправляется запрос
